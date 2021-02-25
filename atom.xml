@@ -6,7 +6,7 @@
   <link href="https://lhang906.github.io/atom.xml" rel="self"/>
   
   <link href="https://lhang906.github.io/"/>
-  <updated>2021-02-02T11:33:34.043Z</updated>
+  <updated>2021-02-24T15:06:23.277Z</updated>
   <id>https://lhang906.github.io/</id>
   
   <author>
@@ -15,6 +15,46 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>information_schema</title>
+    <link href="https://lhang906.github.io/post/3e3eb442.html"/>
+    <id>https://lhang906.github.io/post/3e3eb442.html</id>
+    <published>2021-01-23T02:22:49.000Z</published>
+    <updated>2021-02-24T15:06:23.277Z</updated>
+    
+    
+    <summary type="html">MySQL自带数据库information_schema</summary>
+    
+    
+    
+    <category term="MySQL数据库" scheme="https://lhang906.github.io/categories/MySQL%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="mysql数据库" scheme="https://lhang906.github.io/tags/mysql%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    <category term="information_schema" scheme="https://lhang906.github.io/tags/information-schema/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>upload-labs</title>
+    <link href="https://lhang906.github.io/post/80f02bc5.html"/>
+    <id>https://lhang906.github.io/post/80f02bc5.html</id>
+    <published>2021-01-22T14:45:46.000Z</published>
+    <updated>2021-02-24T14:55:25.387Z</updated>
+    
+    
+    <summary type="html">对文件上传漏洞重新打了下通关，复习了一下，但由于对PHP不太熟悉，还有一些源码提示没看懂，导致有些思路还是有问题，做个警示吧！</summary>
+    
+    
+    
+    <category term="web安全" scheme="https://lhang906.github.io/categories/web%E5%AE%89%E5%85%A8/"/>
+    
+    
+    <category term="文件上传" scheme="https://lhang906.github.io/tags/%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>CSRFTester自动化测试</title>
